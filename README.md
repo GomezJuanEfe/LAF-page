@@ -2,7 +2,9 @@
 
 Final individual project that is part of the Make it Real Bootcamp.
 
-![LAF-mockup](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5zNnJ3dm9pcTZ4dWc0NnZ3b3hqenB0YXFxb2MwdHQxcWtwOGcwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bZEhAOUGwPRkBKoNN5/giphy-downsized-large.gif)
+<p {align="center"}>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5zNnJ3dm9pcTZ4dWc0NnZ3b3hqenB0YXFxb2MwdHQxcWtwOGcwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bZEhAOUGwPRkBKoNN5/giphy-downsized-large.gif" alt="Screenshot"/>
+</p>
 
 ## Overview ✍️
 
